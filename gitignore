@@ -1,0 +1,23 @@
+
+# Obsidian workspace/UI files (do not track)
+.obsidian/workspace*
+.obsidian/appearance.json
+.obsidian/core-plugins.json
+.obsidian/community-plugins.json
+.obsidian/themes.json
+
+# Optional cache files
+.obsidian/cache/
+
+# Optional: ignore local-only snippets/plugins
+.obsidian/snippets/
+.obsidian/plugins/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Backup files
+*.tmp
+*.swp
+*.swo
