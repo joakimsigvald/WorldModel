@@ -1,5 +1,6 @@
 # Chapter 1 — Predictions
 
+TEST
 This chapter lists the model’s predictions entirely in the language of standard physics, without referencing any new internal concepts introduced later. The aim is to state clear, testable claims using only familiar physical terms.
 
 ## 1. Structure of Space and Fields

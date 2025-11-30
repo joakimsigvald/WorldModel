@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapter_8_1_special_relativity.md",
+                "file": "chapter_1_predictions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter_8_1_special_relativity"
+              "title": "chapter_1_predictions"
             }
           }
         ]
@@ -201,6 +201,7 @@
   },
   "active": "afc0abc5d9ccb839",
   "lastOpenFiles": [
+    "Chapter_8_1_special_relativity.md",
     "chapter_1_predictions.md",
     "Welcome.md",
     "chapter_2_foundations_v2.md",
@@ -212,7 +213,6 @@
     "chapter_8_dynamics_v2.md",
     "chapter_9_future_work.md",
     "chapter_7_1_neutrinos.md",
-    "Chapter_8_1_special_relativity.md",
     "Chapter_8_2_general_relativity.md"
   ]
 }
