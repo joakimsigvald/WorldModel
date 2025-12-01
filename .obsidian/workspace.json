@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapters/table_of_contents.md",
+                "file": "Chapters/2. Foundations.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "table_of_contents"
+              "title": "2. Foundations"
             }
           }
         ]
@@ -201,8 +201,11 @@
   },
   "active": "afc0abc5d9ccb839",
   "lastOpenFiles": [
-    "chapter_1_predictions.md",
+    "Chapters/0. Table of Contents.md",
     "Chapters/table_of_contents.md",
+    "Chapters/2. Foundations.md",
+    "Chapters/chapter_2_foundations_outline.md",
+    "chapter_1_predictions.md",
     "Chapters",
     "Ny mapp",
     "Summaries/photon_model_summary.md",
@@ -226,9 +229,6 @@
     "Summaries/world_model_summary.md",
     "Summaries",
     "Chapter_8_1_special_relativity.md",
-    "Welcome.md",
-    "chapter_2_foundations_v2.md",
-    "chapter_3_consciousness_v2.md",
-    "chapter_4_unified_lattice_v2.md"
+    "Welcome.md"
   ]
 }
