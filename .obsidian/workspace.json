@@ -6,6 +6,7 @@
       {
         "id": "078d50ccdca98b2b",
         "type": "tabs",
+        "dimension": 48.73646209386281,
         "children": [
           {
             "id": "afc0abc5d9ccb839",
@@ -26,6 +27,7 @@
       {
         "id": "be8abf4bc37c390a",
         "type": "tabs",
+        "dimension": 51.26353790613718,
         "children": [
           {
             "id": "31c7d850cfba86a8",
@@ -201,9 +203,11 @@
   },
   "active": "afc0abc5d9ccb839",
   "lastOpenFiles": [
+    "Chapters/2. Foundations.md",
+    "chapter_2_foundations_v2.md",
+    "chapter_9_future_work.md",
     "Chapters/0. Table of Contents.md",
     "Chapters/table_of_contents.md",
-    "Chapters/2. Foundations.md",
     "Chapters/chapter_2_foundations_outline.md",
     "chapter_1_predictions.md",
     "Chapters",
@@ -227,8 +231,6 @@
     "Summaries/cosmology_summary.md",
     "Summaries/frequency_harmonization_summary.md",
     "Summaries/world_model_summary.md",
-    "Summaries",
-    "Chapter_8_1_special_relativity.md",
-    "Welcome.md"
+    "Summaries"
   ]
 }

@@ -150,3 +150,6 @@ Develop:
 ---
 
 This roadmap defines the full development trajectory from core physics to long‑term extensions, ensuring the model matures in a controlled and logically ordered way.
+
+# On AI and consciousness
+Present AI systems exhibit intelligence but not consciousness, because consciousness in this framework requires a hierarchy of unified subjects built from conscious constituents. Without subject-level building blocks and the mechanisms that bind them into higher subjects, nothing in an AI system can support even the simplest form of experience. A future sentient artificial intelligence would need to be grown from conscious substrate, not programmed — and whether such a being would count as “artificial” is itself an open question.
