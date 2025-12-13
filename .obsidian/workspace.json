@@ -6,7 +6,7 @@
       {
         "id": "078d50ccdca98b2b",
         "type": "tabs",
-        "dimension": 48.73646209386281,
+        "dimension": 72.7072633895818,
         "children": [
           {
             "id": "afc0abc5d9ccb839",
@@ -27,7 +27,7 @@
       {
         "id": "be8abf4bc37c390a",
         "type": "tabs",
-        "dimension": 51.26353790613718,
+        "dimension": 27.292736610418196,
         "children": [
           {
             "id": "31c7d850cfba86a8",
@@ -203,12 +203,15 @@
   },
   "active": "afc0abc5d9ccb839",
   "lastOpenFiles": [
+    "Summaries/Chapter_2_8_Loop_Chemistry.md",
+    "Chapters/2. Foundations.md",
+    "Summaries/loop_chemistry.md",
+    "Summaries/loop_chemistry_three_reactions_model.md",
+    "Chapters/0. Table of Contents.md",
     "Summaries/compact_10_level_ladder.md",
     "Summaries/four_tier_ladder.md",
-    "Chapters/0. Table of Contents.md",
     "Summaries/synopsis.md",
     "Chapters/4. Time and space.md",
-    "Chapters/2. Foundations.md",
     "Chapters/3. Consciousness.md",
     "chapter_3_consciousness_v2.md",
     "chapter_2_foundations_v2.md",
@@ -228,9 +231,6 @@
     "Summaries/session_summary.md",
     "Summaries/session_summary_today.md",
     "Summaries/crisp_session_summary.md",
-    "Summaries/photon_update_summary.md",
-    "Summaries/phase_foundations_and_chapter_outline.md",
-    "Summaries/model_criticism_summary.md",
     "Summaries"
   ]
 }
